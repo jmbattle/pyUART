@@ -555,3 +555,4 @@ class UARTMaster():
             print STATUS_CODES[dll.FT_CyclePort(self._handle)]
         else:
             print 'Successfully power-cycled device channel %i with handle %i' % (self._index.value, self._handle.value)
+            
