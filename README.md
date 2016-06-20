@@ -5,8 +5,6 @@ Yet another Python wrapper for the [ftd2xx] library, intended for use with UART-
 
 **NOTE:** Tested with Python 2.7 on Windows 7. 
 
-**NOTE:** Development and testing is still under way so there may be a few bugs to work out. Stay tuned for more. :tv:
-
 ## Setup
 The script currently looks for ftd2xx.dll in `C:\Python27\Lib\site-packages\`. 
 The location must be updated if residing elsewhere on your system.   
