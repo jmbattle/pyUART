@@ -2,9 +2,6 @@
 """UART_tests.py: Simple test routine for pyUART wrapper functions
 
 __author__ = "Jason M. Battle"
-__copyright__ = "Copyright 2016, Jason M. Battle"
-__license__ = "MIT"
-__email__ = "jason.battle@gmail.com"
 """
 
 from UART import UARTMaster
